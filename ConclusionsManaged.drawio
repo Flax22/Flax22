@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1097" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="663" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -48,7 +48,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="esq4DEs6tMJ4NNBgiMNg-15" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;FAILED&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontColor=light-dark(#e71313, #ededed);textShadow=0;" connectable="0" vertex="1" parent="esq4DEs6tMJ4NNBgiMNg-14">
+        <mxCell id="esq4DEs6tMJ4NNBgiMNg-15" value="&lt;b&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;FAILED&lt;/span&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontColor=light-dark(#e71313, #ededed);textShadow=0;fontStyle=2" connectable="0" vertex="1" parent="esq4DEs6tMJ4NNBgiMNg-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="36" as="offset" />
           </mxGeometry>
@@ -65,16 +65,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="esq4DEs6tMJ4NNBgiMNg-19" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;SUCCESS&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontColor=light-dark(#22c385, #ededed);textShadow=0;" connectable="0" vertex="1" parent="esq4DEs6tMJ4NNBgiMNg-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-32" y="-45" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="esq4DEs6tMJ4NNBgiMNg-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="356" y="53" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="esq4DEs6tMJ4NNBgiMNg-30" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=#999999;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="30" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esq4DEs6tMJ4NNBgiMNg-34" value="&lt;b&gt;&lt;span style=&quot;font-style: normal;&quot;&gt;&lt;font style=&quot;color: rgb(102, 255, 102);&quot;&gt;SUCCESS&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontColor=light-dark(#e71313, #ededed);textShadow=0;fontStyle=2" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405.9995348837209" y="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
